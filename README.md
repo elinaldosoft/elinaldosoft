@@ -5,5 +5,5 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=elinaldosoft alt=elinaldosoft /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=elinaldosoft&show_icons=true&include_all_commits=true)](https://github.com/elinaldosoft/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elinaldosoft&layout=compact)](https://github.com/elinaldosoft/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=elinaldosoft&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elinaldosoft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
